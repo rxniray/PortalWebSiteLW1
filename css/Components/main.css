@@ -288,10 +288,20 @@
     display: block;
     margin-top: .9rem;
 
+    max-width: 5rem;
+
     color: #1B365D;
     font-family:'Roboto';
     font-size: 0.875rem;
     font-weight: 400;
+
+    transition: .7s;
+}
+
+.title__block a:hover{
+    color: #fff;
+    
+    transition: .5s;
 }
 
 .title__block {
