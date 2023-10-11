@@ -294,7 +294,8 @@
         .title__block p{
             font-size: 1.0625rem;
         }
-        .title__block a{      
+        .title__block a{
+            display: inline-block;
             font-size: .875rem;
         }
     }
